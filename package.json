@@ -2,6 +2,7 @@
   "name": "lab-ds",
   "private": true,
   "version": "0.0.0",
+  "homepage": "Resort-tf/",
   "type": "module",
   "scripts": {
     "dev": "vite",
