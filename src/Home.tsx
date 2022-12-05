@@ -32,27 +32,6 @@ export function Home() {
             <div>
                 <h3>Conheça</h3>
 
-                <div className="glide">
-
-                    <div className="glide__track" data-glide-el="track">
-                        <ul className="glide__slides">
-                            <li className="glide__slide">0</li>
-                            <li className="glide__slide">1</li>
-                            <li className="glide__slide">2</li>
-                        </ul>
-                    </div>
-
-                    <div className="glide__arrows" data-glide-el="controls">
-                        <button className="glide__arrow glide__arrow--left" data-glide-dir="<">prev</button>
-                        <button className="glide__arrow glide__arrow--right" data-glide-dir=">">next</button>
-
-                        <div className="glide__bullets" data-glide-el="controls[nav]">
-                            <button className="glide__bullet" data-glide-dir="=0"></button>
-                            <button className="glide__bullet" data-glide-dir="=1"></button>
-                            <button className="glide__bullet" data-glide-dir="=2"></button>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     )
