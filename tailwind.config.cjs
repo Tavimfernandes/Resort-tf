@@ -52,11 +52,11 @@ module.exports = {
         h2: 'Oswald, sans-serif',
       },
       backgroundImage: {
-        'noruega': "url('noruega.png')",
-        'noruegasm': "url('noruega2.png')",
+        'noruega': "url('../noruega.png')",
+        'noruegasm': "url('../noruega2.png')",
 
-        'berlim': "url('berlim.png')",
-        'berlimsm': "url('berlim2.png')",
+        'berlim': "url('../berlim.png')",
+        'berlimsm': "url('../berlim2.png')",
       },
     },
   },
